@@ -23,3 +23,9 @@ int main()
     }   
     return 0;  
 }
+
+'''
+Input: Enter the Number: 121
+Output: Number is Palindrome.
+'''
+
