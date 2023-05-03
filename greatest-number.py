@@ -8,3 +8,8 @@ def greatest_number(a, b, c):
 
 a, b, c = map(int, input().split())
 greatest_number(a, b, c)
+
+'''
+Input: 10 20 30
+Output: Greatest number is : 30
+'''
