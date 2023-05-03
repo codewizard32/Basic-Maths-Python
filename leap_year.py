@@ -11,3 +11,8 @@ elif year % 4 == 0:
     
 else:
     print(year, "is not a Leap Year")
+
+'''
+Input: Enter a year: 2024
+Output: 2024 is a Leap Year
+'''
