@@ -10,3 +10,7 @@ if c == 2:
 else:
     print(n, "is not a Prime number")
 
+'''
+Enter any number n: 7
+7 is a Prime number
+'''
